@@ -1,0 +1,9 @@
+org\encryptsl\antibot\LISTENERS\AuthmeListener.class
+org\encryptsl\antibot\LISTENERS\PlayerMoveEventClass.class
+org\encryptsl\antibot\LISTENERS\ServerListPingEventClass.class
+org\encryptsl\antibot\LISTENERS\AsyncPreLoginEventClass.class
+org\encryptsl\antibot\LISTENERS\PlayerQuitEventClass.class
+org\encryptsl\antibot\LISTENERS\AsyncPlayerChatEventClass.class
+org\encryptsl\antibot\STORAGE\VirtualStorage.class
+org\encryptsl\antibot\API\CaptchaGenerator.class
+org\encryptsl\antibot\AntibotServices.class

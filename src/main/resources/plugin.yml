@@ -1,0 +1,8 @@
+name: ANTIBOT-SERVICES
+version: ${project.version}
+main: org.encryptsl.antibot.AntibotServices
+prefix: ANTIBOT
+authors: [EncryptSL]
+depend: [AuthMe]
+description: AntiBot plugin developed by EncryptSL
+website: www.encryptsl.ml
